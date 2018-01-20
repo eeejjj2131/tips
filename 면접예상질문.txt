@@ -11,7 +11,7 @@ interface, abstract 이란?
 자바 쓰레드
 프로세스와 쓰레드의 차이점
 캐시와 세션의 공통점과 차이점
-request 전송 방힉 (get, post)
+request 전송 방식  (get, post)
 restful 이란?
 디자인 패턴에 대해서 아는것?
 MVC 패턴이란?
